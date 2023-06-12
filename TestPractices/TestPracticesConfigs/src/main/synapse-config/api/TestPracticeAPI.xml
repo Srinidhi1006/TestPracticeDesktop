@@ -4,7 +4,11 @@
         <inSequence>
             <payloadFactory media-type="json">
                 <format>{&#xd;
+<<<<<<< HEAD
 "message":"TestPractice changed in studio 1"&#xd;
+=======
+"message":"TestPractice changed in github.com"&#xd;
+>>>>>>> e5ad9fe5aef213bfab1fdbf7081bb5b83f94abc6
 }</format>
                 <args/>
             </payloadFactory>
